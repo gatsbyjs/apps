@@ -2,7 +2,7 @@
   "name": "apps",
   "private": true,
   "devDependencies": {
-    "prettier": "2.4.1",
+    "prettier": "2.6.1",
     "husky": "^7.0.0",
     "lint-staged": "^11.2.3"
   },
